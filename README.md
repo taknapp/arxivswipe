@@ -1,1 +1,3 @@
-Download these two files. In the same folder you move/download the files to, on terminal, run `python3 server.py` then open  http://localhost:8000/arxiv-swipe.html or whatever other url the terminal tells you to open. It should save all your papers if you close the terminal session as long as you don’t refresh your cookies/history on your computer. You can also export the papers lol I’m working on the Zotero plug in 
+Download these two files. In the same folder you move/download the files to, on terminal, run `python3 server.py` then open  
+http://localhost:8000/arxiv-swipe.html 
+or whatever other url the terminal tells you to open. It should save all your papers if you close the terminal session as long as you don’t refresh your cookies/history on your computer. You can also export the papers lol I’m working on the Zotero plug in 
